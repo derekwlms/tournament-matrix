@@ -1,0 +1,8 @@
+tournament-matix contains source code solutions for Friday Fragment tournament matrices.
+
+A tournament graph (dominance-directed graph) in matrix form can be used to
+compute power rankings for teams based on win-loss records.  This contains a 
+PHP solution we applied to NFL teams.
+
+See: http://derekwilliams.us/?p=4424
+     http://derekwilliams.us/?p=4535
